@@ -1,0 +1,128 @@
+.top-container {
+  background-color: #EAF6F6;
+  margin: 0 0 0 0;
+}
+
+.headline {
+  margin: 50px 0 0 0;
+  font-size: 3.625rem;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+}
+
+.top-cloud {
+  position: relative;
+  top: 15px;
+  left: 380px;
+  margin-top: 60px;
+}
+
+hr{
+  border: 0;
+  border-top: 1px dotted #EAF6F6;
+  border-width: 5px;
+  width: 100px;
+}
+
+h1 {
+  font-family: 'Courgette', cursive;
+  color: #fc5185;
+}
+
+h2 {
+  font-family: 'Roboto', cursive;
+  font-size: 2.0rem;
+  color: #fc5185;
+}
+
+h3 {
+  color: #0f4c75;
+}
+
+body {
+  margin: 0 0 0 0;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
+
+p{
+  color: #40514E;
+}
+
+
+.avatar {
+  margin-top: 100px;
+  border-radius: 100%;
+  width: 200px;
+  height: 200px;
+}
+
+.footer-link {
+  position: relative;
+  left: 50px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 150px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.web-development{
+  width: 25%;
+  margin-right: 30px;
+  float: left;
+}
+
+.designing{
+  width: 25%;
+  margin-right: 30px;
+  float: right;
+}
+
+.bio{
+  color: #40514E;
+  width: 500px;
+  margin: 0 auto 100px;
+}
+
+.skills{
+  margin-top: 50px;
+}
+
+.des-2{
+  margin-bottom: 150px;
+}
+
+.contact{
+  margin: 50px 0;
+}
+
+.btn{
+  display: inline-block;
+  margin-bottom: 50px;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  margin: 0;
+}
+.website{
+  display: inline-block;
+  padding-top: 20px;
+  color: #11999E;
+}
+.copyright{
+    color: #EAF6F6;
+    margin: 0;
+    padding: 20px;
+}
+
+a{
+  text-decoration: none;
+}
